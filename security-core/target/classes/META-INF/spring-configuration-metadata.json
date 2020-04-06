@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.soa.lxf.properties.SecurityProperites",
+      "name": "lxf.security",
+      "type": "com.soa.lxf.properties.SecurityProperites"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.soa.lxf.properties.SecurityProperites",
+      "name": "lxf.security.browser",
+      "type": "com.soa.lxf.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.soa.lxf.properties.SecurityProperites",
+      "name": "lxf.security.type",
+      "type": "com.soa.lxf.entity.LoginResponseType"
+    }
+  ]
+}
